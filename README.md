@@ -11,7 +11,7 @@ $ which jupyter
 /Users/brian/anaconda/envs/py3/bin/jupyter
 ```
 
-[A tree](https://msprime.readthedocs.io/en/stable/tutorial.html#simulating-trees) without code wrapping:
+[A tree](https://msprime.readthedocs.io/en/stable/tutorial.html#simulating-trees) without code wrapping:  
     10  
  ┏━━┻━┓  
  ┃    9  
